@@ -1,0 +1,29 @@
+header
+{
+    background-color: lightpink;
+    width: 600px;
+    height: 75px;
+
+}
+aside
+{
+    background-color: cyan;
+    width: 100px;
+    height: 300px;
+    float: left;
+
+}
+main
+{
+    background-color: burlywood;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    display: inline-block;
+}
+footer
+{
+    background-color: darkgrey;
+    width: 600px;
+    height: 75px;
+}
